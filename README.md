@@ -4,7 +4,7 @@ This project is designed to extract text, images, and tables from both PDF docum
 
 ## Live Demo:
 
-You can try out the app live here: [Streamlit App Demo]([YOUR_STREAMLIT_LINK_HERE](https://damg7245team6-lshvwtf6d8aotrsg7tyvwy.streamlit.app/))
+You can try out the app live here: [Streamlit App Demo](https://damg7245team6-lshvwtf6d8aotrsg7tyvwy.streamlit.app/)
 
 ## Key Features:
 - **PDF Data Extraction**: Extracts text, images, and tables from PDF files.
