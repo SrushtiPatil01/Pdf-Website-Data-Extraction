@@ -2,6 +2,10 @@
 
 This project is designed to extract text, images, and tables from both PDF documents and websites. The data is then stored in AWS S3 buckets for easy access and management. The project uses a combination of tools and libraries for PDF parsing, web scraping, and a web-based interface for user interaction.
 
+## Live Demo:
+
+You can try out the app live here: [Streamlit App Demo]([YOUR_STREAMLIT_LINK_HERE](https://damg7245team6-lshvwtf6d8aotrsg7tyvwy.streamlit.app/))
+
 ## Key Features:
 - **PDF Data Extraction**: Extracts text, images, and tables from PDF files.
 - **Website Data Extraction**: Scrapes text, images, and tables from websites.
